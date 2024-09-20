@@ -18,6 +18,4 @@ Bu proje, [Getir](https://getir.com/) uygulamasının bir klonunu Expo ve React 
 
 ### Adımlar
 
-1. **Proje Klasörüne Git**:
-   ```bash
-   cd proje-adi
+
