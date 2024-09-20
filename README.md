@@ -1,18 +1,22 @@
-# Getir Klon Uygulaması
+# GetirClone
 
-Bu proje, [Getir](https://getir.com/) uygulamasının bir klonunu Expo ve React Native kullanarak geliştirilmiştir. Proje, mobil platformlarda (iOS ve Android) çalışacak şekilde tasarlanmıştır.
+GetirClone, popüler Getir uygulamasının bir klonudur. Bu proje, React Native kullanarak mobil uygulama geliştirme becerilerinizi geliştirmek için tasarlanmıştır.
 
 ## Özellikler
 
-- **Kullanıcı Girişi**: Kullanıcıların giriş yapabilmesi için basit bir giriş ekranı.
-- **Ürün Kataloğu**: Ürünlerin listelendiği bir ana ekran.
-- **Sepet**: Kullanıcıların ürünleri sepete ekleyip çıkarabilmesi.
-- **Sipariş Verme**: Sepetteki ürünlerle sipariş verme işlevselliği.
+- **Kategoriler**: Ürünleri kategorilere göre görüntüleyin.
+- **Ürün Listesi**: Kullanıcıların ürünleri keşfetmelerine olanak tanır.
+- **Dinamik Arayüz**: Hızlı ve kullanıcı dostu bir arayüz.
 
-### Prerequisites
+## Teknolojiler
 
-- [Node.js](https://nodejs.org/)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- **React Native**: Mobil uygulama geliştirmek için kullanılan bir JavaScript çerçevesi.
+- **Expo**: React Native uygulamalarını hızlı bir şekilde geliştirmek için kullanılan bir araç.
+- **Redux**: Uygulama durumunu yönetmek için kullanılan bir kütüphane.
 
+## Kurulum
 
-
+1. Depoyu klonlayın:
+   ```bash
+   git clone https://github.com/CaptainBlack21/GetirClone.git
+   cd GetirClone
