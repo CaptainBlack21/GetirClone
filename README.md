@@ -9,13 +9,10 @@ Bu proje, [Getir](https://getir.com/) uygulamasının bir klonunu Expo ve React 
 - **Sepet**: Kullanıcıların ürünleri sepete ekleyip çıkarabilmesi.
 - **Sipariş Verme**: Sepetteki ürünlerle sipariş verme işlevselliği.
 
-## Kurulum
-
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (LTS versiyonu tercih edilir)
+- [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
-### Adımlar
 
 
